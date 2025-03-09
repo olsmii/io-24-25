@@ -6,4 +6,4 @@ ulubiony serial: rozdzielenie
 
 ulubiony film: whiplash
 
-zainteresowania: snowboard, podroże, sport
+zainteresowania: podróże, rysunek, kino, snowboard
